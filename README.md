@@ -50,16 +50,11 @@ Welcome to **Real Scout**, a modern and elegant mobile application for discoveri
 - 🎭 **TypeScript ~5.9** (Type Safety)
 - 🗄️ **Appwrite** (Backend as a Service)
 - 🔐 **Google OAuth 2.0** (Authentication)
-- 🛣️ **Expo Router ~6.0** (File-based Navigation)
-- 🎞️ **React Native Reanimated ~4.1** (Animations)
-- ⚛️ **React 19.1.0** (UI Library)
 
 ## 📚 Real Scout Resources
 
-- 🌐 **Project Repository**: [GitHub Link](https://github.com/yourusername/realestate-app)
+- 🌐 **Project Repository**: [GitHub Link](https://github.com/LouisFernando1204/realestate-app)
 - 🗄️ **Appwrite Console**: [Appwrite Cloud](https://cloud.appwrite.io/)
-- 📖 **Expo Documentation**: [Expo Docs](https://docs.expo.dev/)
-- 🎨 **NativeWind Docs**: [NativeWind](https://www.nativewind.dev/)
 
 ## 🚀 Getting Started
 
@@ -78,7 +73,7 @@ Follow these steps to get Real Scout up and running on your local machine.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/realestate-app
+   git clone https://github.com/LouisFernando1204/realestate-app
    cd realestate-app
    ```
 
@@ -382,18 +377,3 @@ realestate-app/
 ## 🤝 Contributor
 
 - 🧑‍💻 **Louis Fernando** : [@LouisFernando1204](https://github.com/LouisFernando1204)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- [Expo Team](https://expo.dev/) for the amazing development platform
-- [Appwrite](https://appwrite.io/) for the powerful backend service
-- [NativeWind](https://www.nativewind.dev/) for bringing Tailwind to React Native
-- All contributors and testers who helped improve this app
-
----
-
-**Made with ❤️ and ☕ by Louis Fernando**

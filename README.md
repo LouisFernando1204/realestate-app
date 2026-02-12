@@ -1,8 +1,8 @@
-# Real Scout: Find Your Dream Property 🏡✨
+# RealEstateApp: Find Your Dream Property 🏡✨
 
 ## ✨ Overview
 
-Welcome to **Real Scout**, a modern and elegant mobile application for discovering, searching, and exploring real estate properties. Built with React Native and Expo, this app provides a seamless cross-platform experience for property seekers and real estate enthusiasts. It integrates with Appwrite as a comprehensive backend service for authentication, property management, and user data. With a beautiful UI powered by NativeWind and smooth navigation through Expo Router, Real Scout delivers a premium property browsing experience.
+Welcome to **RealEstateApp**, a modern and elegant mobile application for discovering, searching, and exploring real estate properties. Built with React Native and Expo, this app provides a seamless cross-platform experience for property seekers and real estate enthusiasts. It integrates with Appwrite as a comprehensive backend service for authentication, property management, and user data. With a beautiful UI powered by NativeWind and smooth navigation through Expo Router, RealEstateApp delivers a premium property browsing experience.
 
 ## 🔋 Key Features
 
@@ -51,14 +51,14 @@ Welcome to **Real Scout**, a modern and elegant mobile application for discoveri
 - 🗄️ **Appwrite** (Backend as a Service)
 - 🔐 **Google OAuth 2.0** (Authentication)
 
-## 📚 Real Scout Resources
+## 📚 RealEstateApp Resources
 
 - 🌐 **Project Repository**: [GitHub Link](https://github.com/LouisFernando1204/realestate-app)
 - 🗄️ **Appwrite Console**: [Appwrite Cloud](https://cloud.appwrite.io/)
 
 ## 🚀 Getting Started
 
-Follow these steps to get Real Scout up and running on your local machine.
+Follow these steps to get RealEstateApp up and running on your local machine.
 
 ### Prerequisites
 
